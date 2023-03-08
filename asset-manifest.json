@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trendup/static/css/main.77991b6b.css",
+    "main.js": "/trendup/static/js/main.2efe8d19.js",
+    "static/js/787.104c10cb.chunk.js": "/trendup/static/js/787.104c10cb.chunk.js",
+    "index.html": "/trendup/index.html",
+    "main.77991b6b.css.map": "/trendup/static/css/main.77991b6b.css.map",
+    "main.2efe8d19.js.map": "/trendup/static/js/main.2efe8d19.js.map",
+    "787.104c10cb.chunk.js.map": "/trendup/static/js/787.104c10cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77991b6b.css",
+    "static/js/main.2efe8d19.js"
+  ]
+}
